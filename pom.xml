@@ -17,6 +17,7 @@
 
     <modules>
         <module>netty-springboot</module>
+        <module>echo</module>
     </modules>
 
     <properties>

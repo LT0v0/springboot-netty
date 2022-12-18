@@ -29,6 +29,7 @@ hs_err_pid*
 *.ipr
 /out/
 */target
+*/*/target
 .
 
 ### STS ###
